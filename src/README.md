@@ -4,9 +4,9 @@ layout: Blog
 icon: house
 title: 博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+heroText: demo-blog
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 如果不能亲身掌握大量的细节、底层机制，又何以做出优秀的高级决策呢
 projects:
   - icon: folder-open
     name: 项目名称
