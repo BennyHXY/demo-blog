@@ -3,10 +3,11 @@ home: true
 layout: Blog
 icon: house
 title: 博客主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: demo-blog
+bgImage: /assets/images/background/luoke-02.webp
+heroImage: https://ossweb-img.qq.com/images/roco/act/a20110727lkwg/face/dimo/11.gif
+heroText: 迪莫的博客
 heroFullScreen: true
-tagline: 如果不能亲身掌握大量的细节、底层机制，又何以做出优秀的高级决策呢
+tagline: 光之精灵王 —— 迪莫 !
 projects:
   - icon: folder-open
     name: 项目名称

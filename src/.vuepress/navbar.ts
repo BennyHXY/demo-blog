@@ -49,4 +49,37 @@ export default navbar([
     icon: "book",
     link: "https://theme-hope.vuejs.press/zh/",
   },
+  {
+    text: "fighting for 408",
+    children: [
+      {
+        text: "数据结构",
+        children: ["线性表", "树", "图"],
+      },
+      {
+        text: "计算机网络",
+        children: [
+          "概述",
+          "应用层",
+          "传输层",
+          "网络层",
+          "数据链路层",
+          "物理层",
+        ],
+      },
+      {
+        text: "计算机组成原理",
+        prefix: "/posts/computer-architecture/",
+        children: [
+          "信息的表示和处理",
+          { text: "处理器", link: "processor" },
+          { text: "存储器", link: "memory-hierarchy" },
+        ],
+      },
+      {
+        text: "操作系统",
+        children: ["概述", "进程管理", "内存管理", "文件管理", "I/O管理"],
+      },
+    ],
+  },
 ]);
