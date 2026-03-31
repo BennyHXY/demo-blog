@@ -1,4 +1,5 @@
 ---
+title: 指令集
 icon: pen-to-square
 date: 2022-01-11
 category:

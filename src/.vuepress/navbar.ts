@@ -71,8 +71,11 @@ export default navbar([
         text: "计算机组成原理",
         prefix: "/posts/computer-architecture/",
         children: [
-          "信息的表示和处理",
-          { text: "处理器", link: "processor" },
+          {
+            text: "信息的表示和处理",
+            link: "representation-and-processing-of-information/",
+          },
+          { text: "处理器", link: "processor/" },
           { text: "存储器", link: "memory-hierarchy" },
         ],
       },
